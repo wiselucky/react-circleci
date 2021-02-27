@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  one:
+  test_frontend:
     docker:
         - image: circleci/node
     steps:
